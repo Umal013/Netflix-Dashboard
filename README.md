@@ -133,3 +133,6 @@ This helps analyze age-group targeting strategy.
 🧑‍💻 Author
 
 Umal Nitharwal
+
+LinkedIn: https://www.linkedin.com/in/umal-nitharwal-7a10992b1
+
